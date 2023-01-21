@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #task-input {
+    padding: 10px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  #add-task-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #add-task-button:hover {
+    background-color: #3e8e41;
+  }
+  
+  #task-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #task-list li {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
